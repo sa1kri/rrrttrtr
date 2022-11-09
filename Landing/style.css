@@ -201,7 +201,7 @@ html, body {
 }
 
 .tab{
-    height: 377px;
+    height: 765px;
     width: 505px;
     background-color: rgb(255, 255, 255);
     opacity: 100%;
@@ -213,7 +213,7 @@ html, body {
 .tab_title_1{
     
     background-color: white;
-    height: 70px;
+    height: 120px;
     width: 500px;
     border-style: solid;
     border-color: rgb(92, 92, 92);
